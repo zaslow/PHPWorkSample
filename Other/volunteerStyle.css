@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-size: 1.5em;
+}
+td{
+    padding: 6px;
+}
+input[type="text"]{
+    line-height: 50px;
+    width: 300px;
+    border: 2px solid darkgreen;
+}
+#message{
+    position: absolute;
+    margin: 50px 25px 25px 100px;
+}
+#required{
+    position: absolute;
+    margin: 65px 25px 25px 550px;
+    font-size: 1.25em;
+    color: darkred;
+    font-weight: bold;
+}
+#hoursSubmit{
+    position: absolute;
+    margin: 50px 25px 25px 800px;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    font-size: 1.5em;
+    border: 5px solid darkgreen;
+    background-color: white;    
+}
+#confirm{
+    position: absolute;
+    margin: 130px 0px 0px 900px;
+}

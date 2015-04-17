@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .redButton{
+                width: 300px;
+                height: 150px;
+                background-color: blue;
+                color: red;
+                font-size:1.5em;
+                margin-top: 100px;
+                margin-left: 500px;
+            }
+            
+            .blueButton{
+                width: 300px;
+                height: 150px;
+                background-color: red;
+                color: blue;
+                font-size:1.5em;
+                margin-top: 100px;
+                margin-left: 500px;
+            }
+        </style>
+                
+        <title>Dean Zaslow's Homework 2.2</title>
+        <meta charset="windows-1252">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body id="main">
+        
+        <button type="button" class="redButton"
+        onclick="turnRed()">
+            <b>TURN PAGE RED</b>
+        </button>
+        
+        <button type="button" class="blueButton"
+        onclick="turnBlue()">
+            <b>TURN PAGE BLUE</b>
+        </button>
+        
+        <script>
+            function turnRed(){
+                document.getElementById('main').style.backgroundColor = "red";
+            }
+            
+            function turnBlue(){
+                document.getElementById('main').style.backgroundColor = "blue";
+            }
+        </script>
+        
+    </body>
+</html>

@@ -1,0 +1,12 @@
+Membership Application for State Forest Conservation Committee:
+
+This project will service a non-profit organization that preserves and protects the natural and historic resources of a local state forest.
+Once created, the application will include a member log-in page, an online member application form, and an online portal for entering payment information.
+This will be supported by a database that stores and organizes contact information, membership statuses, and payment information for all organization members.
+
+Significant services provided by the application will be online membership application & renewal, flexible online payment options for existing
+and prospective members, and self-maintenance and storage of organization funds and records.
+
+This application will be utilized by a wide range of users interested in forest conservation. It will commonly appeal to elderly, distinguished
+members of the community who would like to preserve the region's natural landscapes. It will also commonly appeal to middle-aged parents, who take
+advantage of state forest-related activities with their children and family. 

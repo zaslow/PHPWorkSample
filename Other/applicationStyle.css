@@ -1,0 +1,34 @@
+#appH2{
+    text-align: center;
+}
+
+#committee,#category            { width: 32%; }
+#interest                       { width: 27%; }
+
+#committee,#interest,#category{
+    float: left;
+    margin-left: 2%;
+    font-size: 1.2em;
+}
+#memberSubmit{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    font-size: 1.5em;
+    border: 5px solid darkgreen;
+    background-color: white;
+    float: right;
+    margin-right: 300px;
+}
+#price{
+    float: right;
+    margin-right: 2%;
+}
+.message{
+    color: darkred;
+    float: right;
+    margin-right: -425px;
+    margin-top: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+}

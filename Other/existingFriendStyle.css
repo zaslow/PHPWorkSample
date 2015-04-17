@@ -1,0 +1,15 @@
+#friendInfo{
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-left: 35%;
+}
+#dues{
+    margin-top: 100px;
+    margin-left: 500px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    font-size: 1.25em;
+    border: 5px solid green;
+    background-color: white;  
+}

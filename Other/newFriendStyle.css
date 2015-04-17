@@ -1,0 +1,20 @@
+#apply,#donate,#log{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    font-size: 1.5em;
+    border: 5px solid darkgreen;
+    background-color: white;
+}
+#apply{
+    float: left;
+    margin-left: 10%;
+}
+#donate{
+    margin-left: 7%;
+    margin-right: auto;
+}
+#log{
+    float: right;
+    margin-right: 10%;
+}
